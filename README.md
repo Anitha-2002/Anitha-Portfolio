@@ -1,8 +1,4 @@
 # My Portfolio
-<<<<<<< HEAD
-
-=======
->>>>>>> 0afb5359d5d65739b53e8613d9fa8a30c504e516
 <h3>Introduction</h3>
 <p>This project is a dynamic and visually appealing portfolio website designed to showcase personal skills, projects, and contact information. Leveraging the trifecta of HTML, CSS, and JavaScript, this portfolio seamlessly blends aesthetics with functionality. The report provides an in-depth overview of the website's structure, key sections, and the technologies used to bring it to life.</p>
 <h2>Website Sections</h2>
